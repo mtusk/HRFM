@@ -1,0 +1,13 @@
+Thanks very much for downloading this texture pack!
+
+We have to give credit to Misa for allowing us to use Misa's Realistic Texture Pack (http://www.minecraftforum.net/topic/69354-64x12512w16a-misas-realistic-texture-pack-updated-25apr2012/) as a basis (currently Misa431). Most of the textures are from this texture pack.
+
+Thanks also to Scuttles' LB Photo Realism texture pack (http://www.minecraftforum.net/topic/127377-16x-32x-64x-128x-256x12-lb-photo-realism-124-update-3292012/) and JohnSmith's 32x32 texture pack (http://www.minecraftforum.net/topic/26727-johnsmith-texture-pack-v93-32x-124-with-customizer-0324/). And also to Jeroanimo's HalfCraft Source texure pack (http://www.planetminecraft.com/texture_pack/halfcraft-source-v13-x128-28981/). In the latest editions of this texture pack, some furniture textures of the Urbancraft texture pack are used (http://www.planetminecraft.com/texture_pack/urbancraft---official-ucp-texture-pack-128x128/).
+
+The HD Font is also by Misa.
+
+Our work is provided under the Creative Commons. If you want to share or use these textures in any way, modified or not, ask permission. Not for commercial use. For the use of Misa's textures (included in this pack), please refer to 'Legal - Misa.txt', included in this zip. For the use of other textures from JohnSmith, Scuttles and Jeroanimo, contact them.
+
+For more info about installation, refer to 'How to install.txt' (by JohnSmith). HD Patcher is needed to make this texture pack work.
+
+Use of this pack is entirely on your own risk. We are not responsible for any problems you might experience using or installing this texture pack. Updates for future Minecraft versions are not guaranteed.
